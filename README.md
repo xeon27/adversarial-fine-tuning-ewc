@@ -33,6 +33,6 @@ ADAMW Optimizer : https://github.com/INK-USC/CLIF
 
 
 ## Author
-Diljot Singh
-Omkar Dige
-Pranav Gupta
+Diljot Singh, 
+Omkar Dige, 
+Pranav Gupta 
